@@ -1,1 +1,1 @@
-print ("pura gente guapa y bella en 2do "D"")
+print ("pura gente guapa y bella en 2do "D", en especial mi Luci<3")
